@@ -4,7 +4,7 @@ memetnur
 date:06.11.2020
 covid-19 outbreak
 '''
-
+#start
 install.packages(" ggplot2 ")
 install.packages(" mice ")
 install.packages(" missForest ")
